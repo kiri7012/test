@@ -1,7 +1,9 @@
 °¡
 
+<<<<<<< HEAD
 one ÐÞ¸Ä
 
 web ÐÞ¸Ä
 
 origin ÐÞ¸Ä
+
